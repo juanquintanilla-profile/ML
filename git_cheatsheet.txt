@@ -1,8 +1,4 @@
-==============================
-🚀 Guion Git + GitHub
-==============================
-
-# ⚡ SOLO LA PRIMERA VEZ (crear repo nuevo y subirlo)
+primera vez
 cd /ruta/a/carpeta/padre         # entrar a la carpeta donde quieres tu proyecto
 mkdir mi-proyecto                # crear carpeta del proyecto
 cd mi-proyecto                   # entrar al proyecto
@@ -16,8 +12,7 @@ git branch -M main               # renombrar rama principal a 'main'
 git push -u origin main          # subir a GitHub y enlazar rama
 
 --------------------------------
-
-# 🔄 SUBIR CAMBIOS (cada vez que edites algo)
+subir cambios
 cd /ruta/a/mi-proyecto           # entrar al proyecto
 git status                       # ver qué ha cambiado
 git add .                        # añadir todos los cambios
@@ -26,12 +21,12 @@ git push                         # subir cambios a GitHub
 
 --------------------------------
 
-# ⬇️ TRAER CAMBIOS (si editaste en otro PC o en GitHub)
+traer cambios
 git pull                         # descargar cambios del remoto y fusionarlos
 
 --------------------------------
 
-# ℹ️ EXPLICACIÓN RÁPIDA DE LOS COMANDOS
+
 git init         -> inicia repositorio en la carpeta actual
 git remote add   -> enlaza tu carpeta local con GitHub
 git add .        -> añade todos los cambios a staging
