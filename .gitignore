@@ -1,0 +1,86 @@
+# --- Entornos / dependencias ---
+ml-dl-env/
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# --- Python cache/bytecode ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+# Salidas pesadas de notebooks (opcional):
+*.nbconvert.ipynb
+
+# --- Datos y artefactos de entrenamiento ---
+data/
+datasets/
+inputs/
+outputs/
+artifacts/
+checkpoints/
+logs/
+runs/
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+*.npz
+*.npy
+*.pkl
+*.joblib
+
+# --- Archivos grandes / binarios de documentos (no subir PDFs y similares) ---
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.ods
+*.odt
+
+# --- Imágenes y multimedia (opcional, descomenta si no quieres subirlos) ---
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.mp4
+# *.wav
+# *.mp3
+
+# --- Configuraciones locales / IDE ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Herramientas de testing/linters/caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Otros temporales ---
+.DS_Store
+Thumbs.db
+.cache/
+*.log
+*.tmp
+
+# --- Credenciales / variables de entorno ---
+.env
+.env.*
+*.secret
+*.credentials
+.git-credentials
