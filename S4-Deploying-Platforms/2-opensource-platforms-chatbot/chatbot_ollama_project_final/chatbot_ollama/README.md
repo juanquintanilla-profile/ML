@@ -1,1 +1,0 @@
-Chatbot de expertos con Ollama. Incluye tres expertos temáticos y funciona offline.

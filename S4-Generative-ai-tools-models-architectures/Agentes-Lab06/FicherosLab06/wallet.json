@@ -1,0 +1,173 @@
+{
+  "Efectivo": 20.59,
+  "posiciones": [
+    {
+      "nombre_stock": "NVDA",
+      "cantidad": 27,
+      "valor_inicial": 181.1,
+      "fecha_compra": "2025-08-18T17:34:33"
+    }
+  ],
+  "historico": [
+    {
+      "nombre_stock": "PLTR",
+      "cantidad": 6,
+      "valor_inicial": 181.02,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-15T14:20:32",
+      "valor_venta": 181.02
+    },
+    {
+      "nombre_stock": "COIN",
+      "cantidad": 3,
+      "valor_inicial": 324.89,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-15T14:20:34",
+      "valor_venta": 324.89
+    },
+    {
+      "nombre_stock": "TSLA",
+      "cantidad": 2,
+      "valor_inicial": 335.58,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-15T14:20:35",
+      "valor_venta": 335.58
+    },
+    {
+      "nombre_stock": "VOO",
+      "cantidad": 2,
+      "valor_inicial": 592.85,
+      "fecha_compra": "2025-08-15T14:21:09",
+      "fecha_venta": "2025-08-17T16:02:05",
+      "valor_venta": 591.57
+    },
+    {
+      "nombre_stock": "COIN",
+      "cantidad": 2,
+      "valor_inicial": 324.89,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 317.55
+    },
+    {
+      "nombre_stock": "NVDA",
+      "cantidad": 3,
+      "valor_inicial": 180.45,
+      "fecha_compra": "2025-08-17T16:02:15",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 180.45
+    },
+    {
+      "nombre_stock": "TSLA",
+      "cantidad": 2,
+      "valor_inicial": 335.58,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 330.56
+    },
+    {
+      "nombre_stock": "PLTR",
+      "cantidad": 3,
+      "valor_inicial": 181.02,
+      "fecha_compra": "2025-08-15T14:02:53",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 177.17
+    },
+    {
+      "nombre_stock": "AAPL",
+      "cantidad": 1,
+      "valor_inicial": 231.59,
+      "fecha_compra": "2025-08-17T16:02:15",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 231.59
+    },
+    {
+      "nombre_stock": "VOO",
+      "cantidad": 3,
+      "valor_inicial": 592.85,
+      "fecha_compra": "2025-08-15T14:21:09",
+      "fecha_venta": "2025-08-17T16:52:53",
+      "valor_venta": 591.57
+    },
+    {
+      "nombre_stock": "VTI",
+      "cantidad": 15,
+      "valor_inicial": 316.47,
+      "fecha_compra": "2025-08-17T16:53:00",
+      "fecha_venta": "2025-08-17T17:46:27",
+      "valor_venta": 316.47
+    },
+    {
+      "nombre_stock": "SPY",
+      "cantidad": 7,
+      "valor_inicial": 643.44,
+      "fecha_compra": "2025-08-17T17:46:29",
+      "fecha_venta": "2025-08-17T17:53:42",
+      "valor_venta": 643.44
+    },
+    {
+      "nombre_stock": "ETH",
+      "cantidad": 40,
+      "valor_inicial": 41.29,
+      "fecha_compra": "2025-08-17T17:53:52",
+      "fecha_venta": "2025-08-18T16:46:08",
+      "valor_venta": 40.46
+    },
+    {
+      "nombre_stock": "NVDA",
+      "cantidad": 9,
+      "valor_inicial": 180.45,
+      "fecha_compra": "2025-08-17T17:53:52",
+      "fecha_venta": "2025-08-18T16:46:08",
+      "valor_venta": 181.38
+    },
+    {
+      "nombre_stock": "ARKK",
+      "cantidad": 21,
+      "valor_inicial": 77.01,
+      "fecha_compra": "2025-08-17T17:53:52",
+      "fecha_venta": "2025-08-18T16:46:08",
+      "valor_venta": 76.56
+    },
+    {
+      "nombre_stock": "ARKK",
+      "cantidad": 3,
+      "valor_inicial": 76.81,
+      "fecha_compra": "2025-08-18T17:00:33",
+      "fecha_venta": "2025-08-18T17:34:23",
+      "valor_venta": 76.91
+    },
+    {
+      "nombre_stock": "TSLA",
+      "cantidad": 1,
+      "valor_inicial": 333.32,
+      "fecha_compra": "2025-08-18T17:00:33",
+      "fecha_venta": "2025-08-18T17:34:23",
+      "valor_venta": 332.8
+    },
+    {
+      "nombre_stock": "GME",
+      "cantidad": 108,
+      "valor_inicial": 23.07,
+      "fecha_compra": "2025-08-18T16:51:21",
+      "fecha_venta": "2025-08-18T17:34:23",
+      "valor_venta": 23.01
+    },
+    {
+      "nombre_stock": "TQQQ",
+      "cantidad": 10,
+      "valor_inicial": 92.92,
+      "fecha_compra": "2025-08-18T17:00:33",
+      "fecha_venta": "2025-08-18T17:34:23",
+      "valor_venta": 92.43
+    },
+    {
+      "nombre_stock": "NVDA",
+      "cantidad": 4,
+      "valor_inicial": 181.39,
+      "fecha_compra": "2025-08-18T17:00:33",
+      "fecha_venta": "2025-08-18T17:34:23",
+      "valor_venta": 181.1
+    }
+  ]
+}
