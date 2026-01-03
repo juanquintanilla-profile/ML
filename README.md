@@ -21,7 +21,7 @@ Repositorio completo de proyectos prácticos cubriendo el espectro completo de I
 
 ## Metodologías Ágiles
 
-Material de estudio sobre metodologías ágiles de desarrollo de software.
+Material de estudio sobre metodologías ágiles de desarrollo de software
 
 **Contenido**:
 - 9 Fastbooks sobre Scrum, Kanban y frameworks ágiles
